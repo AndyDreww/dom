@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    font-size: 200px;
+    width: 50%;
+    margin: 10% auto 0;
+    font-family: 'Kanit', sans-serif;
+}
